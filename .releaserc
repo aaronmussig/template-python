@@ -3,7 +3,7 @@
   "branches": [
     "main",
     {
-      "name": "develop",
+      "name": "dev",
       "channel": "prerelease",
       "prerelease": "prerelease"
     }
