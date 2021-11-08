@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/aaronmussig/template-python/compare/v1.0.0...v1.1.0) (2021-11-08)
+
+
+### Features
+
+* Initial release2. ([433cdb1](https://github.com/aaronmussig/template-python/commit/433cdb117024a47fe68a54d0c432b9d5d9419605))
+
 # 1.0.0 (2021-11-08)
 
 
