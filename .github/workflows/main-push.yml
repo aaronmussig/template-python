@@ -20,11 +20,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-  pypi:
-    needs: semantic-release
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
