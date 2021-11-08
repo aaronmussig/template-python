@@ -1,3 +1,10 @@
+# [1.2.0-dev.2](https://github.com/aaronmussig/template-python/compare/v1.2.0-dev.1...v1.2.0-dev.2) (2021-11-08)
+
+
+### Features
+
+* test pre-release branch ([5b6a1e8](https://github.com/aaronmussig/template-python/commit/5b6a1e875bc8a2f34787eec6801bbc393349afbc))
+
 # [1.2.0-dev.1](https://github.com/aaronmussig/template-python/compare/v1.1.0...v1.2.0-dev.1) (2021-11-08)
 
 
