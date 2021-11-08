@@ -1,5 +1,5 @@
 __title__ = 'python_template_test_pkg'
-__description__ = ''
+__description__ = 'Description'
 __url__ = 'https://github.com/aaronmussig/python_template_test_pkg'
 __version__ = '1.0.0'
 __author__ = 'Aaron Mussig'
