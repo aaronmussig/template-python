@@ -3,13 +3,13 @@ on:
   push:
     branches:
       - main
-      - dev
 
 jobs:
-  semantic-release:
-    name: semantic-release
+  release:
+    name: release
     runs-on: ubuntu-latest
     steps:
+      # Semantic release
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v2
         with:
@@ -20,6 +20,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      # Publish to PyPI
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
