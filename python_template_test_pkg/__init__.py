@@ -1,7 +1,7 @@
 __title__ = 'python_template_test_pkg'
 __description__ = 'Description'
 __url__ = 'https://github.com/aaronmussig/python_template_test_pkg'
-__version__ = '1.2.0'
+__version__ = '1.3.0'
 __author__ = 'Aaron Mussig'
 __author_email__ = 'aaronmussig@gmail.com'
 __license__ = 'GNU AGPLv3'
