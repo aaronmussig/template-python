@@ -4,8 +4,7 @@
     "main",
     {
       "name": "dev",
-      "channel": "prerelease",
-      "prerelease": "prerelease"
+      "prerelease": "dev"
     }
   ],
   "plugins": [
